@@ -5,8 +5,6 @@
 
 ## Description
 Some info about me and links for next projects.
-css file /css/style.css
-image file /img/photo.jpg
 
 ## Demo
 Doesn't exist in this project.
